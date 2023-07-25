@@ -1,0 +1,22 @@
+{
+  "name": "protobot",
+  "version": "0.1.0",
+  "description": "A simple Node app built on fastify, instantly up and running. Built to be remixed on Glitch.com.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "14.x"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/sunrise-radial-effect"
+  },
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
